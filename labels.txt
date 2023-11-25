@@ -1,0 +1,7 @@
+0 Musim Panas
+1 Musim dingin
+2 Musim semi
+3 Musim kemarau
+4 Musim gugur
+5 Musim hujan
+6 Bukan musim
